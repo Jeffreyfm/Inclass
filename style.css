@@ -1,0 +1,44 @@
+#one{ 
+		width: 200px;
+		height: 200px;
+		/* background-color: green; */
+		/* background-color:(0, 255, 0); */
+		background-color: hsl (130, 100%, 50%);
+
+ }
+ h1{ 
+
+ background-color: red; }
+
+ body{
+ 	/* background-color: red ; */
+ 	/*background-image: url('images/max.jpg'); */
+ 	background-blend-mode: multiply ;
+
+
+
+	/*background: linear-gradient(rgba(244, 67, 54, 0,95),
+							rgba(33, 150, 243, 0.75),
+							rgba(139, 195, 74, 0.95),
+							rgba(255, 87, 34,0.95),
+						url('images/max.jpg'), url('images/backgroundimages.jpeg'); 
+
+
+
+
+
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
